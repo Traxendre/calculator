@@ -6,8 +6,8 @@ public class Calcultor {
 		// TODO Auto-generated method stub
 		System.out.println(new CalculatorController().addition(2,3));
 		System.out.println(new CalculatorController().multiplication(2,3));
-
- //test
+		System.out.println(new CalculatorController().division(2,3));
+		
 	}
 
 }
