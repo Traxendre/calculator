@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 coucou !
+=======
+yo!
+Test nico
+>>>>>>> 306b794a2c7baac9ae95453d6e9e5c4f47eb07e2
