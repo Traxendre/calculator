@@ -6,7 +6,7 @@ public class CalculatorController {
 		return 0;
 	}
 
-	public double subtraction(double num1, double num2) {
+	public static double subtraction(double num1, double num2) {
 
 		double result = num1 - num2 ;
 
